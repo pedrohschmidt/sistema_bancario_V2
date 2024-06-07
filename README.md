@@ -1,5 +1,5 @@
 
-# Desafio de projeto: Criando um sistema bancário com Python (v1)
+# Desafio de projeto: Criando um sistema bancário com Python (v2)
 
 
 ## Restrições:
