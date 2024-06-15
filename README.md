@@ -26,14 +26,14 @@
 ## Funcionalidades:
 
 * O sistema deve ter um menu interativo com o usuário, onde ele decide se quer:
-        - [d] fazer um depósito;
-        - [s] fazer um saque;
-        - [e] ver o extrato de operações;
-        - [u] cadastrar um novo usuário;
-        - [c] cadastrar uma nova conta corrente para um usuário existente;
-        - [v] acessar a lista de usuários cadastrados;
-        - [b] acessar a lista de contas por CPF;
-        - [x] sair da aplicação;
+        * [d] fazer um depósito;
+        * [s] fazer um saque;
+        * [e] ver o extrato de operações;
+        * [u] cadastrar um novo usuário;
+        * [c] cadastrar uma nova conta corrente para um usuário existente;
+        * [v] acessar a lista de usuários cadastrados;
+        * [b] acessar a lista de contas por CPF;
+        * [x] sair da aplicação;
 * Qualquer operação diferente disso deve retornar um erro, avisando que a operação é inválida.
 
 * Todos os erros gerados a partir de falha nas operações financeiras, devem gerar uma notificação ao usuário, para que ele entenda o motivo de a operação não ter sido bem sucedida.
